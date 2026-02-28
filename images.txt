@@ -5,4 +5,5 @@
 ## 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # ghcr.io/open-webui/open-webui
-nezahatkorkmaz/deepseek-v3
+# nezahatkorkmaz/deepseek-v3
+rustdesk/rustdesk-server
